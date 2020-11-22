@@ -9,5 +9,6 @@ package com.qing.entity;
  */
 public class Person {
     private int age;
+    private String user;
 
 }
